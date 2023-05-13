@@ -19,9 +19,12 @@ for path in paths:
         + part["url"]
         + ")\n\n"
         + "**Patented**\n\n"
-        + "![The preview image only works from within https://github.com/openvmp/openvmp/](../../../generated_files/parts/gobilda/"
+        + "<img alt='"
+        + part["desc"]
+        + "' style='background-color: black;'"
+        + " src='../../../generated_files/parts/gobilda/"
         + dir
-        + ".svg)\n"
+        + ".svg'/>\n"
     )
     readme = open(dir + "/README.md", "w+")
     readme.write(contents)

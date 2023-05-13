@@ -3,4 +3,4 @@
 
 **Patented**
 
-![The preview image only works from within https://github.com/openvmp/openvmp/](../../../generated_files/parts/gobilda/structure-u-channel-9.svg)
+<img alt='1120 Series U-Channel (9 Hole, 240mm Length)' style='background-color: black;' src='../../../generated_files/parts/gobilda/structure-u-channel-9.svg'/>
