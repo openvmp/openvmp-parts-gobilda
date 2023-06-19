@@ -1,12 +1,49 @@
-# OpenVMP parts from [goBILDA](https://www.gobilda.com/)
-This folder contains parts that can be purchased from [goBILDA](https://www.gobilda.com/).
 
-  See [openvmp-models](https://github.com/openvmp/openvmp-models) for more info.
+# openvmp-parts-gobilda
 
-  | Part | Image |
-  | -- | -- |
-  | [1120 Series U-Channel (2 Hole, 72mm Length)](./structure-u-channel-2) | <img alt='1120 Series U-Channel (2 Hole, 72mm Length)' src='https://github.com/openvmp/openvmp-models/blob/main/generated_files/parts/gobilda/structure-u-channel-2.svg' width='300' /> |
-| [1120 Series U-Channel (5 Hole, 144mm Length)](./structure-u-channel-5) | <img alt='1120 Series U-Channel (5 Hole, 144mm Length)' src='https://github.com/openvmp/openvmp-models/blob/main/generated_files/parts/gobilda/structure-u-channel-5.svg' width='300' /> |
-| [1120 Series U-Channel (7 Hole, 192mm Length)](./structure-u-channel-7) | <img alt='1120 Series U-Channel (7 Hole, 192mm Length)' src='https://github.com/openvmp/openvmp-models/blob/main/generated_files/parts/gobilda/structure-u-channel-7.svg' width='300' /> |
-| [1120 Series U-Channel (9 Hole, 240mm Length)](./structure-u-channel-9) | <img alt='1120 Series U-Channel (9 Hole, 240mm Length)' src='https://github.com/openvmp/openvmp-models/blob/main/generated_files/parts/gobilda/structure-u-channel-9.svg' width='300' /> |
-| [1121 Series Low-Side U-Channel (7 Hole, 192mm Length)](./structure-u-channel-low-7) | <img alt='1121 Series Low-Side U-Channel (7 Hole, 192mm Length)' src='https://github.com/openvmp/openvmp-models/blob/main/generated_files/parts/gobilda/structure-u-channel-low-7.svg' width='300' /> |
+OpenVMP parts that can be purchased from [goBILDA](https://www.gobilda.com/).
+
+See [openvmp-models](https://github.com/openvmp/openvmp-models) for more info.
+
+| Part | Image |
+| -- | -- |
+| [2811 Series Zinc-Plated Steel Hex Nut (M4 x 0.7mm, 7mm Hex) - 25 Pack](hardware-nut-m4-0.7mm) | <img alt='2811 Series Zinc-Plated Steel Hex Nut (M4 x 0.7mm, 7mm Hex) - 25 Pack' src='../../generated_files/parts/gobilda/hardware-nut-m4-0.7mm.svg' width='300' /> |
+| [Steel Channel-Connector Plate - 2 Pack](hardware-plate-channel-conn) | <img alt='Steel Channel-Connector Plate - 2 Pack' src='../../generated_files/parts/gobilda/hardware-plate-channel-conn.svg' width='300' /> |
+| [1500 Series Plastic Spacer (5mm ID x 7mm OD, 1mm Thickness) - 12 Pack](hardware-spacer-plastic-5mm-1mm) | <img alt='1500 Series Plastic Spacer (5mm ID x 7mm OD, 1mm Thickness) - 12 Pack' src='../../generated_files/parts/gobilda/hardware-spacer-plastic-5mm-1mm.svg' width='300' /> |
+| [1500 Series Plastic Spacer (8mm ID x 10mm OD, 1mm Thickness) - 12 Pack](hardware-spacer-plastic-8mm-1mm) | <img alt='1500 Series Plastic Spacer (8mm ID x 10mm OD, 1mm Thickness) - 12 Pack' src='../../generated_files/parts/gobilda/hardware-spacer-plastic-8mm-1mm.svg' width='300' /> |
+| [1522 Series 8mm ID Spacer (10mm OD, 4mm Length) - 4 Pack](hardware-spacer-steel-8mm-4mm) | <img alt='1522 Series 8mm ID Spacer (10mm OD, 4mm Length) - 4 Pack' src='../../generated_files/parts/gobilda/hardware-spacer-steel-8mm-4mm.svg' width='300' /> |
+| [1601 Series Flanged Ball Bearing (5mm ID x 14mm OD, 5mm Thickness) - 2 Pack](motion-bearing-flanged-5mm) | <img alt='1601 Series Flanged Ball Bearing (5mm ID x 14mm OD, 5mm Thickness) - 2 Pack' src='../../generated_files/parts/gobilda/motion-bearing-flanged-5mm.svg' width='300' /> |
+| [1611 Series Flanged Ball Bearing (6mm ID x 14mm OD, 5mm Thickness) - 2 Pack](motion-bearing-flanged-6mm) | <img alt='1611 Series Flanged Ball Bearing (6mm ID x 14mm OD, 5mm Thickness) - 2 Pack' src='../../generated_files/parts/gobilda/motion-bearing-flanged-6mm.svg' width='300' /> |
+| [1611 Series Flanged Ball Bearing (8mm ID x 14mm OD, 5mm Thickness) - 2 Pack](motion-bearing-flanged-8mm) | <img alt='1611 Series Flanged Ball Bearing (8mm ID x 14mm OD, 5mm Thickness) - 2 Pack' src='../../generated_files/parts/gobilda/motion-bearing-flanged-8mm.svg' width='300' /> |
+| [1611 Series Flanged Ball Bearing (8mm REX ID x 14mm OD, 5mm Thickness) - 2 Pack](motion-bearing-flanged-8mmREX) | <img alt='1611 Series Flanged Ball Bearing (8mm REX ID x 14mm OD, 5mm Thickness) - 2 Pack' src='../../generated_files/parts/gobilda/motion-bearing-flanged-8mmREX.svg' width='300' /> |
+| [2910 Series Aluminum Clamping Collar (8mm REX ID x 20mm OD, 9mm Length)](motion-collar-clamping-8mmREX) | <img alt='2910 Series Aluminum Clamping Collar (8mm REX ID x 20mm OD, 9mm Length)' src='../../generated_files/parts/gobilda/motion-collar-clamping-8mmREX.svg' width='300' /> |
+| [2920 Series Steel Set-Screw Collar (6mm Bore) - 2 Pack](motion-collar-set-6mm) | <img alt='2920 Series Steel Set-Screw Collar (6mm Bore) - 2 Pack' src='../../generated_files/parts/gobilda/motion-collar-set-6mm.svg' width='300' /> |
+| [4007 Series Hyper Coupler (8mm Round Bore to 8mm REX Bore)](motion-coupler-hyper-8mm-8mmREX) | <img alt='4007 Series Hyper Coupler (8mm Round Bore to 8mm REX Bore)' src='../../generated_files/parts/gobilda/motion-coupler-hyper-8mm-8mmREX.svg' width='300' /> |
+| [1310 Series Hyper Hub (8mm REX Bore)](motion-hub-hyper-8mmREX) | <img alt='1310 Series Hyper Hub (8mm REX Bore)' src='../../generated_files/parts/gobilda/motion-hub-hyper-8mmREX.svg' width='300' /> |
+| [1309 Series Sonic Hub (5mm Bore)](motion-hub-sonic-5mm) | <img alt='1309 Series Sonic Hub (5mm Bore)' src='../../generated_files/parts/gobilda/motion-hub-sonic-5mm.svg' width='300' /> |
+| [1309 Series Sonic Hub (8mm REX Bore)](motion-hub-sonic-8mmREX) | <img alt='1309 Series Sonic Hub (8mm REX Bore)' src='../../generated_files/parts/gobilda/motion-hub-sonic-8mmREX.svg' width='300' /> |
+| [1900 Series Single Servo Arm (25 Tooth Spline, 32mm Length)](motion-servo-attach-arm-25t) | <img alt='1900 Series Single Servo Arm (25 Tooth Spline, 32mm Length)' src='../../generated_files/parts/gobilda/motion-servo-attach-arm-25t.svg' width='300' /> |
+| [1906 Series Low-Profile Servo Hub (25 Tooth Spline, 32mm Diameter)](motion-servo-attach-hub-low-25t) | <img alt='1906 Series Low-Profile Servo Hub (25 Tooth Spline, 32mm Diameter)' src='../../generated_files/parts/gobilda/motion-servo-attach-hub-low-25t.svg' width='300' /> |
+| [Hitec HS-488HB Servo](motion-servo-hs-488hb) | <img alt='Hitec HS-488HB Servo' src='../../generated_files/parts/gobilda/motion-servo-hs-488hb.svg' width='300' /> |
+| [2101 Series Stainless Steel D-Shaft (6mm Diameter, 70mm Length)](motion-shaft-6mmD-70mm) | <img alt='2101 Series Stainless Steel D-Shaft (6mm Diameter, 70mm Length)' src='../../generated_files/parts/gobilda/motion-shaft-6mmD-70mm.svg' width='300' /> |
+| [2106 Series Stainless Steel REX Shaft (8mm Diameter, 56mm Length)](motion-shaft-8mmREX-56mm) | <img alt='2106 Series Stainless Steel REX Shaft (8mm Diameter, 56mm Length)' src='../../generated_files/parts/gobilda/motion-shaft-8mmREX-56mm.svg' width='300' /> |
+| [2106 Series Stainless Steel REX Shaft (8mm Diameter, 64mm Length)](motion-shaft-8mmREX-64mm) | <img alt='2106 Series Stainless Steel REX Shaft (8mm Diameter, 64mm Length)' src='../../generated_files/parts/gobilda/motion-shaft-8mmREX-64mm.svg' width='300' /> |
+| [2106 Series Stainless Steel REX Shaft (8mm Diameter, 72mm Length)](motion-shaft-8mmREX-72mm) | <img alt='2106 Series Stainless Steel REX Shaft (8mm Diameter, 72mm Length)' src='../../generated_files/parts/gobilda/motion-shaft-8mmREX-72mm.svg' width='300' /> |
+| [2106 Series Stainless Steel REX Shaft (8mm Diameter, 80mm Length)](motion-shaft-8mmREX-80mm) | <img alt='2106 Series Stainless Steel REX Shaft (8mm Diameter, 80mm Length)' src='../../generated_files/parts/gobilda/motion-shaft-8mmREX-80mm.svg' width='300' /> |
+| [2106 Series Stainless Steel REX Shaft (8mm Diameter) Clip](motion-shaft-8mmREX-clip) | <img alt='2106 Series Stainless Steel REX Shaft (8mm Diameter) Clip' src='../../generated_files/parts/gobilda/motion-shaft-8mmREX-clip.svg' width='300' /> |
+| [8mm Pitch Acetal Hub-Mount Sprocket (14mm Bore, 16 Tooth)](motion-sprocket-plastic-14mm-16t) | <img alt='8mm Pitch Acetal Hub-Mount Sprocket (14mm Bore, 16 Tooth)' src='../../generated_files/parts/gobilda/motion-sprocket-plastic-14mm-16t.svg' width='300' /> |
+| [8mm Pitch Steel Hub-Mount Sprocket (14mm Bore, 14 Tooth)](motion-sprocket-steel-14mm-14t) | <img alt='8mm Pitch Steel Hub-Mount Sprocket (14mm Bore, 14 Tooth)' src='../../generated_files/parts/gobilda/motion-sprocket-steel-14mm-14t.svg' width='300' /> |
+| [2313 Series Stainless Steel, MOD 1.25 Worm (8mm REX Bore, 33mm Length)](motion-worm-8mmREX) | <img alt='2313 Series Stainless Steel, MOD 1.25 Worm (8mm REX Bore, 33mm Length)' src='../../generated_files/parts/gobilda/motion-worm-8mmREX.svg' width='300' /> |
+| [https://www.gobilda.com/2314-series-brass-mod-1-25-hub-mount-worm-gear-14mm-bore-28-tooth/](motion-worm-gear-28t) | <img alt='https://www.gobilda.com/2314-series-brass-mod-1-25-hub-mount-worm-gear-14mm-bore-28-tooth/' src='../../generated_files/parts/gobilda/motion-worm-gear-28t.svg' width='300' /> |
+| [1106 Series Square Beam (15 Hole, 120mm Length)](structure-beam-15) | <img alt='1106 Series Square Beam (15 Hole, 120mm Length)' src='../../generated_files/parts/gobilda/structure-beam-15.svg' width='300' /> |
+| [1108 Series Flat Pattern Bracket (1-2)](structure-bracket-flat-1-2) | <img alt='1108 Series Flat Pattern Bracket (1-2)' src='../../generated_files/parts/gobilda/structure-bracket-flat-1-2.svg' width='300' /> |
+| [1108 Series Flat Pattern Bracket (2-3)](structure-bracket-flat-2-3) | <img alt='1108 Series Flat Pattern Bracket (2-3)' src='../../generated_files/parts/gobilda/structure-bracket-flat-2-3.svg' width='300' /> |
+| [1201 Series Quad Block Pattern Mount (43-2)](structure-mount-quad-block) | <img alt='1201 Series Quad Block Pattern Mount (43-2)' src='../../generated_files/parts/gobilda/structure-mount-quad-block.svg' width='300' /> |
+| [1802 Series Servo Frame (43mm Width, for Standard Size Servos)](structure-mount-servo-43mm-std) | <img alt='1802 Series Servo Frame (43mm Width, for Standard Size Servos)' src='../../generated_files/parts/gobilda/structure-mount-servo-43mm-std.svg' width='300' /> |
+| [1501 Series M4 x 0.7mm Standoff (6mm OD, 43mm Length) - 4 Pack](structure-standoff-m4-43mm) | <img alt='1501 Series M4 x 0.7mm Standoff (6mm OD, 43mm Length) - 4 Pack' src='../../generated_files/parts/gobilda/structure-standoff-m4-43mm.svg' width='300' /> |
+| [1120 Series U-Channel (2 Hole, 72mm Length)](structure-u-channel-2) | <img alt='1120 Series U-Channel (2 Hole, 72mm Length)' src='../../generated_files/parts/gobilda/structure-u-channel-2.svg' width='300' /> |
+| [1120 Series U-Channel (5 Hole, 144mm Length)](structure-u-channel-5) | <img alt='1120 Series U-Channel (5 Hole, 144mm Length)' src='../../generated_files/parts/gobilda/structure-u-channel-5.svg' width='300' /> |
+| [1120 Series U-Channel (7 Hole, 192mm Length)](structure-u-channel-7) | <img alt='1120 Series U-Channel (7 Hole, 192mm Length)' src='../../generated_files/parts/gobilda/structure-u-channel-7.svg' width='300' /> |
+| [1120 Series U-Channel (9 Hole, 240mm Length)](structure-u-channel-9) | <img alt='1120 Series U-Channel (9 Hole, 240mm Length)' src='../../generated_files/parts/gobilda/structure-u-channel-9.svg' width='300' /> |
+| [1121 Series Low-Side U-Channel (3 Hole, 96mm Length)](structure-u-channel-low-3) | <img alt='1121 Series Low-Side U-Channel (3 Hole, 96mm Length)' src='../../generated_files/parts/gobilda/structure-u-channel-low-3.svg' width='300' /> |
+| [1121 Series Low-Side U-Channel (7 Hole, 192mm Length)](structure-u-channel-low-7) | <img alt='1121 Series Low-Side U-Channel (7 Hole, 192mm Length)' src='../../generated_files/parts/gobilda/structure-u-channel-low-7.svg' width='300' /> |

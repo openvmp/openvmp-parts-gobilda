@@ -15,13 +15,15 @@ for path in paths:
     print("Generating README.md in " + dir + "...")
 
     part = json.loads(open(path).read())
+    if "url" in part:
+        desc = "[" + part["desc"] + "](" + part["url"] + ")"
+    else:
+        desc = part["desc"]
     contents = (
         "# [goBILDA](https://www.gobilda.com/) parts\n"
-        + "## ["
-        + part["desc"]
-        + "]("
-        + part["url"]
-        + ")\n\n"
+        + "## "
+        + desc
+        + "\n\n"
         + "**Patented**\n\n"
         + "<img alt='"
         + part["desc"]

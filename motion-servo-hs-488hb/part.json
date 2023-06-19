@@ -1,0 +1,8 @@
+{
+  "name": "servo_hs_488hb",
+  "desc": "Hitec HS-488HB Servo",
+  "vendor": "gobilda",
+  "sku": "33488",
+  "url": "https://www.gobilda.com/hitec-hs-488hb-servo/",
+  "type": "step"
+}
